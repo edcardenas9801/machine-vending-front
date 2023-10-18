@@ -1,0 +1,20 @@
+.img-article {
+  width: 125px;
+  height: 150px;
+}
+
+.machine-container {
+  text-align: center;
+  border: 1px solid;
+  padding: 56px;
+  box-shadow: 0 0 0 7px #f4aab9, 0 0 0 12px #66ccffd9;
+
+}
+
+.vending-machine {
+  text-align: -webkit-center;
+}
+
+.button-insert {
+  margin-left: 10px;
+}
